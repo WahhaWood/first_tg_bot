@@ -1,4 +1,4 @@
-MONGODB_URL = "#"
-TOKEN = "#"
+MONGODB_URL=#
+TOKEN=#
 
-ADMIN_IDS = "#"
+ADMIN_IDS=#
